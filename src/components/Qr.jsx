@@ -2,16 +2,21 @@ import React from "react";
 
 export default function Qr() {
   return (
-    <div className="px-4 py-8 space-y-8  text-gray-800 max-w-screen-lg mx-auto">
+    <div className="px-4 py-8 space-y-8 text-gray-800 max-w-screen-lg mx-auto">
       {/* Video Section */}
       <div className="text-center">
         <h3 className="text-xl sm:text-2xl font-semibold mb-4">Watch video for detail</h3>
         <div className="flex justify-center">
           <div className="w-full max-w-3xl aspect-video">
-            <video controls className="w-full h-full rounded-lg sm:rounded-xl shadow-md sm:shadow-lg">
-              <source src="/images/video.mp4" type="video/mp4" />
-              Your browser does not support the video tag.
-            </video>
+            <iframe 
+              className="w-full h-full rounded-lg sm:rounded-xl shadow-md sm:shadow-lg"
+              src="https://www.youtube.com/embed/_zBxWTj9Oj8?si=X-62g38Q7pRsLb9-" 
+              title="YouTube video player" 
+              frameBorder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+              referrerPolicy="strict-origin-when-cross-origin" 
+              allowFullScreen>
+            </iframe>
           </div>
         </div>
       </div>
