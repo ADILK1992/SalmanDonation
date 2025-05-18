@@ -30,8 +30,8 @@ const FAQ = () => {
       answer: "This campaign is organized by the registered Khairkhwah Foundation. You can contact them directly at khairkhwahifoundation@gmail.com to verify. Updates about Salman's treatment progress will be regularly posted on this page."
     },
     {
-      question: "Can I donate if I'm outside India?",
-      answer: "Yes! We accept international donations. The payment gateway automatically converts your currency to Indian Rupees (INR)."
+      question: "From which bank account we can donate?",
+      answer: <p>Accept Donations only from  <strong> Indian Bank Account</strong> .</p>
     }
   ];
 

@@ -26,7 +26,7 @@ const Hero = () => {
                     <p className="text-lg text-gray-700 dark:text-gray-100 font-medium">
                       Mujahid Attri{" "}
                       <span className="text-sm text-gray-500">
-                        (KhairKhwahi Foundation)
+                        (Khairkhwahi Foundation)
                       </span>
                     </p>
                     <p className="text-gray-600 dark:text-gray-300">

@@ -11,7 +11,7 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Help Salman Bhivankar</h3>
             <p className="text-gray-300 text-sm">
-              A fundraising campaign organized by Khairkhwah Foundation to help Salman get a hand transplant 
+              A fundraising campaign organized by Khairkhwahi Foundation to help Salman get a hand transplant 
               and regain his independence.
             </p>
           </div>
@@ -19,7 +19,7 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
             <ul className="text-gray-300 text-sm space-y-2">
-              <li>KhKhairKhwahi Foundation</li>
+              <li>Khairkhwahi Foundation</li>
               <li>Mumbra, Maharashtra, India</li>
               <li>Email : khairkhwahifoundation@gmail.com</li>
               <li>Phone: +91 9867862120</li>
@@ -39,7 +39,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-700 mt-8 pt-6 text-center text-sm text-gray-400">
-          <p>© {currentYear} Khairkhwah Foundation. All rights reserved.</p>
+          <p>© {currentYear} Khairkhwahi Foundation. All rights reserved.</p>
           <p className="mt-2">
             This campaign is verified and all donations go directly toward Salman Bhivankar's medical treatment.
           </p>

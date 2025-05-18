@@ -28,7 +28,7 @@ const About = () => {
             </div>
             
             <p>
-              In these difficult times, a local social organization, <strong>Khairkhwah Foundation</strong>, led by Mujahid Attari and his dedicated team, 
+              In these difficult times, a local social organization, <strong>Khairkhwahi Foundation</strong>, led by Mujahid Attari and his dedicated team, 
               has stood by Salman like family—helping him and his loved ones with whatever they can.
             </p>
             
@@ -55,9 +55,9 @@ const About = () => {
           </div>
           
           <div className="mt-12 bg-gray-50 p-6 rounded-lg">
-            <h3 className="text-xl font-semibold mb-4">About Khairkhwah Foundation</h3>
+            <h3 className="text-xl font-semibold mb-4">About Khairkhwahi Foundation</h3>
             <p className="text-gray-700">
-              Khairkhwah Foundation is a local social organization led by Mujahid Attari and his dedicated team. They have been supporting Salman and his family
+              Khairkhwahi Foundation is a local social organization led by Mujahid Attari and his dedicated team. They have been supporting Salman and his family
               through this difficult time, providing both emotional and practical assistance. The foundation works on various social initiatives in the community
               and is now focused on helping Salman get the medical treatment he desperately needs.
             </p>
